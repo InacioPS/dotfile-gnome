@@ -1,7 +1,5 @@
 <h1>Dotfile Gnome</h1>
 <p>Extensões</p>
- <h1>Dotfile Gnome</h1>
-<p>Extensões</p>
 <ul>
 <li>User Themes</li>
 <li>Blur My Shell</li>
