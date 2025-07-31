@@ -11,7 +11,7 @@
 <img src="imagens/claro.png" alt="">
 <p>Shell Fish</p>
 <a href="https://github.com/oh-my-fish/oh-my-fish">Oh my Fish</a>
-<img src="imagens/fish.png" alt="">
+<img src="imagens/kitty.png" alt="">
 
 
 <a href="https://ulauncher.io/">Ulauncher</a>
