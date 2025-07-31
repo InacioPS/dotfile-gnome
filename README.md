@@ -1,12 +1,12 @@
 <h1>Dotfile Gnome</h1>
 <p>Extensões</p>
-<ul>
-<li>User Themes</li>
-<li>Blur My Shell</li>
-<li>Dash To Dock</li>
-<li>Appindicatorsupport</li>
-<li>Mediacontrols</li>
-</ul>
+ <ul>
+            <li><a href="https://extensions.gnome.org/extension/19/user-themes">User Themes</a></li>
+            <li><a href="https://extensions.gnome.org/extension/3193/blur-my-shell/">Blur My Shell</a></li>
+            <li><a href="https://extensions.gnome.org/extension/307/dash-to-dock/">Dash To Dock</a></li>
+            <li><a href="https://extensions.gnome.org/extension/615/appindicator-support/">Appindicatorsupport</a></li>
+            <li><a href="https://extensions.gnome.org/extension/4470/media-controls/">Mediacontrols</a></li>
+        </ul>
 <img src="imagens/1.png" alt="">
 <img src="imagens/claro.png" alt="">
 <p>Shell Fish</p>
