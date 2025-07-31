@@ -28,14 +28,17 @@
 É altamente customizável, tem uma interface simples e funciona bem em ambientes GTK, como GNOME e Xfce. Ideal para quem quer agilidade e produtividade via teclado.</p>
 <img src="imagens/Ulauncher.png" alt="">
 
+<h2>Instalação do Ulauncher</h2>
+
+Ubuntu
 ```Ubuntu
 sudo add-apt-repository universe -y && sudo add-apt-repository ppa:agornostal/ulauncher -y && sudo apt update && sudo apt install ulauncher
 ```
-
+Archlinux
 ```Archlinux
 git clone https://aur.archlinux.org/ulauncher.git && cd ulauncher && makepkg -is
 ```
-
+Fedora
 ```Fedora
 sudo dnf install ulauncher
 ```
